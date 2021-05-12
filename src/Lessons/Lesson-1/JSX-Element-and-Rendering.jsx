@@ -18,7 +18,7 @@ const element = (
     <h1>
 );
 
-<<<<< JSX to Object >>>>>
+<<<<< JSX is an Object >>>>>
 
 const element = {
   type: 'h1',
