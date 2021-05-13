@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css';
 /* import Lesson1 from './Lessons/Lesson-1/JSX-Element-and-Rendering';
 import Lesson2 from './Lessons/Lesson-2/Component-and-Props';
@@ -8,7 +8,6 @@ import Lesson5 from './Lessons/Lesson-5/Conditional-Rendering';
 import Lesson6 from './Lessons/Lesson-6/List-and-Keys'; */
 
 function App() {
-  const [count, setCount] = useState(0);
   // const quantities = [1, 2, 3, 4, 5]; // lesson6
   return (
     <div className="App">
