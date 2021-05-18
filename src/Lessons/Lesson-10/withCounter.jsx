@@ -1,6 +1,6 @@
 import React from 'react';
 
-const withCounter = (OriginalComponent) => {
+function withCounter(OriginalComponent) {
   class NewComponent extends React.Component {
     state = {
       count: 0,
@@ -19,6 +19,6 @@ const withCounter = (OriginalComponent) => {
     }
   }
   return NewComponent;
-};
+}
 
 export default withCounter;
