@@ -7,8 +7,9 @@ import Lesson4 from './Lessons/Lesson-4/Handling-Events--Detect-and-Control-Unne
 import Lesson5 from './Lessons/Lesson-5/Conditional-Rendering';
 import Lesson6 from './Lessons/Lesson-6/List-and-Keys';
 import Lesson7 from './Lessons/Lesson-7/Form-Handling';
-import Lesson8 from './Lessons/Lesson-8/Lesson8';*/
-import Lesson9 from './Lessons/Lesson-9/Lesson9';
+import Lesson8 from './Lessons/Lesson-8/Lesson8';
+import Lesson9 from './Lessons/Lesson-9/Lesson9';*/
+import Lesson10 from './Lessons/Lesson-10/Lesson10';
 
 function App() {
   // const quantities = [1, 2, 3, 4, 5]; // lesson6
@@ -22,8 +23,9 @@ function App() {
       <Lesson5 /> 
       <Lesson6 quantities={quantities} />
       <Lesson7 />
-      <Lesson8 />*/}
-      <Lesson9 />
+      <Lesson8 />
+      <Lesson9 />*/}
+      <Lesson10 />
     </div>
   );
 }
