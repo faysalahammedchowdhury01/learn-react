@@ -9,8 +9,9 @@ import Lesson6 from './Lessons/Lesson-6/List-and-Keys';
 import Lesson7 from './Lessons/Lesson-7/Form-Handling';
 import Lesson8 from './Lessons/Lesson-8/Lesson8';
 import Lesson9 from './Lessons/Lesson-9/Lesson9';
-import Lesson10 from './Lessons/Lesson-10/Lesson10';*/
-import Lesson11 from './Lessons/Lesson-11/Lesson11';
+import Lesson10 from './Lessons/Lesson-10/Lesson10';
+import Lesson11 from './Lessons/Lesson-11/Lesson11';*/
+import Lesson12 from './Lessons/Lesson-12/Lesson12';
 
 function App() {
   // const quantities = [1, 2, 3, 4, 5]; // lesson6
@@ -26,8 +27,9 @@ function App() {
       <Lesson7 />
       <Lesson8 />
       <Lesson9 />
-      <Lesson10 />*/}
-      <Lesson11 />
+      <Lesson10 />
+      <Lesson11 />*/}
+      <Lesson12 />
     </div>
   );
 }
