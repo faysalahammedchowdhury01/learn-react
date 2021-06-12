@@ -1,0 +1,7 @@
+{
+  // Theme
+  "workbench.colorTheme": "Dracula",
+  "workbench.colorCustomizations": {
+    "terminal.background": "#21222c"
+  }
+}
