@@ -14,7 +14,8 @@ import './App.css';
 // import Lesson13 from './Lessons/Lesson-13/Lesson13';
 // import Lesson14 from './Lessons/Lesson-14/Lesson14';
 // import Lesson15 from './Lessons/Lesson-15/Lesson15';
-import Lesson16 from './Lessons/Lesson-16/Lesson16';
+// import Lesson16 from './Lessons/Lesson-16/Lesson16';
+import Lesson17 from './Lessons/Lesson-17/Lesson17';
 
 function App() {
   // const quantities = [1, 2, 3, 4, 5]; // lesson6
@@ -36,7 +37,8 @@ function App() {
       {/* <Lesson13 /> */}
       {/* <Lesson14 /> */}
       {/* <Lesson15 /> */}
-      <Lesson16 />
+      {/* <Lesson16 /> */}
+      <Lesson17 />
     </div>
   );
 }
