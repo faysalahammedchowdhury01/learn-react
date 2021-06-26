@@ -5,3 +5,17 @@ body {
 .App {
   text-align: center;
 }
+
+/* Leson 25 (React Style) */
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.border {
+  stroke: #000;
+}
+
+.hair {
+  fill: red;
+}
