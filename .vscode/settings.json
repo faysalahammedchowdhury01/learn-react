@@ -1,6 +1,6 @@
 {
   // Theme
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "Learn with Sumit - Shades of Grey",
   "workbench.colorCustomizations": {
     "terminal.background": "#21222c"
   }
